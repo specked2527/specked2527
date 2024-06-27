@@ -1,7 +1,8 @@
 ## Hi there 👋
-+ ![specked2527](https://komarev.com/ghpvc/?username=specked2527)
+  ![specked2527](https://komarev.com/ghpvc/?username=specked2527)  
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=specked2527)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=specked2527)](https://github.com/anuraghazra/github-readme-stats)  
+  ![](https://raw.githubusercontent.com/specked2527/specked2527/output/github-contribution-grid-snake.svg)
 
 <!--
 **specked2527/specked2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
