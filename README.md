@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) ![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
-+ ![sumy7](https://komarev.com/ghpvc/?username=specked2527)
-+ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=specked2527.profile)
++ ![specked2527](https://komarev.com/ghpvc/?username=specked2527)
++ ![specked2527](https://visitor-badge.glitch.me/badge?page_id=specked2527.profile)
 <!--
 **specked2527/specked2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
