@@ -1,6 +1,8 @@
 ## Hi there 👋
-+ ![specked2527](https://komarev.com/ghpvc/?username=specked2527)
-
++ ![specked2527](https://komarev.com/ghpvc/?username=specked2527)  
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
   
 <!--
 **specked2527/specked2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
