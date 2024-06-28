@@ -1,9 +1,12 @@
 ## halo 👋
   ![specked2527](https://komarev.com/ghpvc/?username=specked2527)  
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=specked2527)](https://github.com/anuraghazra/github-readme-stats)  
-  ![](https://raw.githubusercontent.com/specked2527/specked2527/output/github-contribution-grid-snake.svg)
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=specked2527)](https://github.com/anuraghazra/github-readme-stats)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=specked2527&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6)
+  
+  ![](https://raw.githubusercontent.com/specked2527/specked2527/output/github-contribution-grid-snake.svg)  
+   
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=specked2527&theme=github-compact&hide_border=true&area=true" /> 
+  
 # Main equipment  
 
 ```
